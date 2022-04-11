@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-vujy3r/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://.github.io/csb-vujy3r/static/js/main.45b96299.chunk.js",
-    "main.js.map": "https://.github.io/csb-vujy3r/static/js/main.45b96299.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-vujy3r/static/js/runtime-main.af10198f.js",
-    "runtime-main.js.map": "https://.github.io/csb-vujy3r/static/js/runtime-main.af10198f.js.map",
-    "static/js/2.56878e5d.chunk.js": "https://.github.io/csb-vujy3r/static/js/2.56878e5d.chunk.js",
-    "static/js/2.56878e5d.chunk.js.map": "https://.github.io/csb-vujy3r/static/js/2.56878e5d.chunk.js.map",
-    "index.html": "https://.github.io/csb-vujy3r/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-vujy3r/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.56878e5d.chunk.js.LICENSE.txt": "https://.github.io/csb-vujy3r/static/js/2.56878e5d.chunk.js.LICENSE.txt"
+    "main.css": "https://onlinenakaoka.github.io/csb-vujy3r/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://onlinenakaoka.github.io/csb-vujy3r/static/js/main.45b96299.chunk.js",
+    "main.js.map": "https://onlinenakaoka.github.io/csb-vujy3r/static/js/main.45b96299.chunk.js.map",
+    "runtime-main.js": "https://onlinenakaoka.github.io/csb-vujy3r/static/js/runtime-main.67f7cefb.js",
+    "runtime-main.js.map": "https://onlinenakaoka.github.io/csb-vujy3r/static/js/runtime-main.67f7cefb.js.map",
+    "static/js/2.56878e5d.chunk.js": "https://onlinenakaoka.github.io/csb-vujy3r/static/js/2.56878e5d.chunk.js",
+    "static/js/2.56878e5d.chunk.js.map": "https://onlinenakaoka.github.io/csb-vujy3r/static/js/2.56878e5d.chunk.js.map",
+    "index.html": "https://onlinenakaoka.github.io/csb-vujy3r/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://onlinenakaoka.github.io/csb-vujy3r/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.56878e5d.chunk.js.LICENSE.txt": "https://onlinenakaoka.github.io/csb-vujy3r/static/js/2.56878e5d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.af10198f.js",
+    "static/js/runtime-main.67f7cefb.js",
     "static/js/2.56878e5d.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
     "static/js/main.45b96299.chunk.js"
