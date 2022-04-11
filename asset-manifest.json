@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "https://onlinenakaoka.github.io/csb-vujy3r/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://onlinenakaoka.github.io/csb-vujy3r/static/js/main.83edc824.chunk.js",
-    "main.js.map": "https://onlinenakaoka.github.io/csb-vujy3r/static/js/main.83edc824.chunk.js.map",
-    "runtime-main.js": "https://onlinenakaoka.github.io/csb-vujy3r/static/js/runtime-main.fb2fd935.js",
-    "runtime-main.js.map": "https://onlinenakaoka.github.io/csb-vujy3r/static/js/runtime-main.fb2fd935.js.map",
-    "static/js/2.784af949.chunk.js": "https://onlinenakaoka.github.io/csb-vujy3r/static/js/2.784af949.chunk.js",
-    "static/js/2.784af949.chunk.js.map": "https://onlinenakaoka.github.io/csb-vujy3r/static/js/2.784af949.chunk.js.map",
-    "index.html": "https://onlinenakaoka.github.io/csb-vujy3r/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://onlinenakaoka.github.io/csb-vujy3r/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.784af949.chunk.js.LICENSE.txt": "https://onlinenakaoka.github.io/csb-vujy3r/static/js/2.784af949.chunk.js.LICENSE.txt"
+    "main.js": "https://.github.io/csb-vujy3r/static/js/main.8a170004.chunk.js",
+    "main.js.map": "https://.github.io/csb-vujy3r/static/js/main.8a170004.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-vujy3r/static/js/runtime-main.b762d810.js",
+    "runtime-main.js.map": "https://.github.io/csb-vujy3r/static/js/runtime-main.b762d810.js.map",
+    "index.html": "https://.github.io/csb-vujy3r/index.html"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb2fd935.js",
-    "static/js/2.784af949.chunk.js",
-    "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.83edc824.chunk.js"
+    "static/js/runtime-main.b762d810.js",
+    "static/js/main.8a170004.chunk.js"
   ]
 }
